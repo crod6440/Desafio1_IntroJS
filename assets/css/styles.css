@@ -1,0 +1,14 @@
+.color {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+p {
+    font-weight: bold;
+}
+
+img {
+    margin-top: 20px;
+}
